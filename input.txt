@@ -1,0 +1,10 @@
+input
+
+take patient history records as json and initial assessment (with chatbot)
+
+
+output 
+
+a summary of the data in the history records 
+
+a alert if the vitals history show a concerning trend
